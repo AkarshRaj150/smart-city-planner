@@ -1,0 +1,26 @@
+location_id,x,y,noise_db,source
+N01,25.0,482.0,76.3,traffic
+N02,676.7,531.4,75.5,traffic
+N03,31.8,93.7,43.4,quiet zone
+N04,561.2,517.3,79.2,traffic
+N05,220.4,589.3,46.9,quiet zone
+N06,758.8,472.8,77.5,traffic
+N07,155.5,957.2,81.0,construction
+N08,379.9,488.7,77.1,traffic
+N09,807.1,729.7,82.2,construction
+N10,78.8,293.2,45.8,quiet zone
+N11,577.4,704.6,79.3,construction
+N12,773.1,985.2,70.1,commercial
+N13,380.1,496.3,80.0,traffic
+N14,370.2,209.5,66.6,commercial
+N15,609.1,473.7,79.4,traffic
+N16,462.3,269.9,70.6,commercial
+N17,684.6,842.9,69.7,commercial
+N18,821.8,805.0,67.4,commercial
+N19,211.0,535.4,80.3,traffic
+N20,212.6,499.2,84.3,construction
+N21,142.9,139.6,46.5,quiet zone
+N22,747.0,428.4,82.5,construction
+N23,219.3,997.5,82.1,construction
+N24,755.8,528.9,75.9,traffic
+N25,792.1,422.2,65.4,commercial
